@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXX6p8hdVPd1s/rz26H628Rdbs+kQQk+32VWVrA1Q3vzvSDIwgLfINOD6doPsEDlGIXtq5d8rK7Qv0OjNWm90g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário\\Desktop\\projetos_C_sharp\\source\\repos\\TesteForm\\TesteForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

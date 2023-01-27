@@ -1,0 +1,21 @@
+Name,Document,Phone,Address,Number,Branch,Balance,IsActive
+Natália Carvalho,71255936447,+55 (46) 7330-4589,"8200 Pablo Travessa, Natal, Lesoto",52248-6,0001,0,True
+Calebe Carvalho,94737657698,(93) 99281-2689,"3084 Souza Alameda, Nova Iguaçu, Liechtenstein",83252-1,0001,0,True
+Liz Silva,17910088462,(38) 93233-6779,"45847 João Travessa, Macapá, El Salvador",72506-1,0001,0,True
+Henrique Macedo,99933007458,+55 (05) 2463-2452,"693 Paulo Rodovia, São José do Rio Preto, Ilhas Cocos",86914-6,0001,0,True
+Lavínia Costa,44933948125,(40) 21402-7225,"7164 Anthony Travessa, Gravataí, Emirados Árabes Unidos",93626-0,0001,0,True
+Emanuel Moraes,53065204999,(40) 4776-2297,"572 Oliveira Rodovia, Uberlândia, Ilhas Marshall",27092-6,0001,0,True
+Fábio Souza,60095853666,+55 (80) 3269-5665,"9649 Elisa Rua, Jundiaí, San Marino",67945-1,0001,0,True
+Rafaela Moraes,36533457723,+55 (24) 4827-5279,"96749 Reis Marginal, São José dos Campos, Santa Helena",83612-0,0001,0,True
+Warley Franco,48836089410,+55 (64) 2369-5044,"11339 Batista Avenida, Goiânia, Brunei",13662-4,0001,0,True
+Warley Carvalho,69019459665,(37) 0795-9403,"7172 Helena Alameda, Maceió, Samoa",31615-7,0001,0,True
+Lara Albuquerque,94446810735,(03) 15082-6146,"9549 Júlio Travessa, Campo Grande, Guiné Francesa",31098-8,0001,0,True
+Manuela Saraiva,42935044159,+55 (05) 6143-4869,"395 Carvalho Travessa, Praia Grande, Colômbia",36494-6,0001,0,True
+João Miguel Braga,93587703772,(71) 3881-9907,"18072 Ricardo Rodovia, Mogi das Cruzes, Anguila",63804-9,0001,0,True
+Silas Albuquerque,48230549726,+55 (25) 5151-8504,"507 Melo Avenida, Taubaté, Equador",24426-7,0001,0,True
+Dalila Melo,94513345251,+55 (99) 0922-2663,"94565 Ana Júlia Avenida, Porto Alegre, El Salvador",32687-5,0001,0,True
+Nicolas Carvalho,62679183402,+55 (68) 4621-3022,"95752 Macedo Rodovia, Taboão da Serra, Zimbábue",07717-4,0001,0,True
+Maria Alice Franco,9241051701,(78) 85279-9438,"910 Carvalho Marginal, Maceió, Síria",83570-9,0001,0,True
+Rafael Moreira,6870965335,(29) 6431-5746,"2048 Enzo Gabriel Rodovia, Cariacica, Niue",32121-8,0001,0,True
+Fabrício Carvalho,79169893740,+55 (91) 1060-9907,"0793 Moreira Rodovia, Palmas, Seicheles",32121-6,0001,0,True
+Antônio Barros,42583347043,+55 (37) 0999-3507,"77040 Pereira Travessa, Jaboatão dos Guararapes, Nicarágua",34613-7,0001,0,True
